@@ -7,3 +7,6 @@ https://www.researchgate.net/figure/Safety-based-route-planning-overview_fig2_28
 
 https://journals.stmjournals.com/jomccmn/article=2024/view=138376/
 
+
+
+https://github.com/datapartnership/integrated-framework-for-road-safety
