@@ -15,3 +15,6 @@ https://github.com/datapartnership/integrated-framework-for-road-safety
 https://somnath7.medium.com/secure-streets-a-deep-learning-project-to-find-secure-path-6b1766e1d587
 
 https://www.computer.org/csdl/proceedings-article/compsac/2022/881000b199/1FJ5XkJay0U
+
+
+https://github.com/intel/Multi-llms-Chatbot-CloudNative-LangChain/tree/main
