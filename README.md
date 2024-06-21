@@ -21,3 +21,5 @@ https://www.computer.org/csdl/proceedings-article/compsac/2022/881000b199/1FJ5Xk
 
 
 https://github.com/intel/Multi-llms-Chatbot-CloudNative-LangChain/tree/main
+
+https://medium.com/@sijohn.mathew/deploy-open-source-llms-to-google-cloud-infra-e05461269a85
