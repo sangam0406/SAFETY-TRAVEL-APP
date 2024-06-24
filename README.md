@@ -28,3 +28,5 @@ https://github.com/GoogleCloudPlatform/llm-pipeline-examples
 
 
 https://medium.com/latinxinai/simple-chatbot-gradio-google-gemini-api-4ce02fbaf09f
+
+https://aws.amazon.com/what-is/reinforcement-learning-from-human-feedback/
