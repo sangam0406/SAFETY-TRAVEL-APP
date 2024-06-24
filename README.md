@@ -25,3 +25,6 @@ https://github.com/intel/Multi-llms-Chatbot-CloudNative-LangChain/tree/main
 https://medium.com/@sijohn.mathew/deploy-open-source-llms-to-google-cloud-infra-e05461269a85
 
 https://github.com/GoogleCloudPlatform/llm-pipeline-examples
+
+
+https://medium.com/latinxinai/simple-chatbot-gradio-google-gemini-api-4ce02fbaf09f
