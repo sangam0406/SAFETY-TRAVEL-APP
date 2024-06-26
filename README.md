@@ -36,3 +36,7 @@ https://openreview.net/forum?id=UQ8pDKcXTq
 https://towardsdatascience.com/how-to-create-and-deploy-a-kubeflow-machine-learning-pipeline-part-1-efea7a4b650f
 
 https://medium.com/@lfoster49203/deploying-models-as-restful-apis-using-kubeflow-pipelines-and-kfserving-a-step-by-step-tutorial-bb608aab67f3
+
+
+
+https://github.com/kubeflow/examples/blob/master/mnist/mnist_vanilla_k8s.ipynb
