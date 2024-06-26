@@ -32,3 +32,5 @@ https://medium.com/latinxinai/simple-chatbot-gradio-google-gemini-api-4ce02fbaf0
 https://aws.amazon.com/what-is/reinforcement-learning-from-human-feedback/
 
 https://openreview.net/forum?id=UQ8pDKcXTq
+
+https://towardsdatascience.com/how-to-create-and-deploy-a-kubeflow-machine-learning-pipeline-part-1-efea7a4b650f
